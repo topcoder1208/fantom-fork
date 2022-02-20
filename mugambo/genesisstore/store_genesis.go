@@ -4,7 +4,7 @@ import (
 	"crypto/sha256"
 	"math/big"
 
-	"github.com/MugamboBC/go-mugambo/mugambo"
+	"github.com/topcoder1208/fantom-fork/mugambo"
 	"github.com/MugamboBC/mugambo-base/common/bigendian"
 	"github.com/MugamboBC/mugambo-base/hash"
 	"github.com/MugamboBC/mugambo-base/inter/idx"
@@ -13,9 +13,9 @@ import (
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesis"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesis/gpos"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesis"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesis/gpos"
 )
 
 type (

@@ -4,16 +4,16 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/MugamboBC/go-mugambo/mugambo"
+	"github.com/topcoder1208/fantom-fork/mugambo"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/state"
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/MugamboBC/go-mugambo/evmcore"
-	"github.com/MugamboBC/go-mugambo/gossip/blockproc"
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/utils"
+	"github.com/topcoder1208/fantom-fork/evmcore"
+	"github.com/topcoder1208/fantom-fork/gossip/blockproc"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/utils"
 )
 
 type EVMModule struct{}

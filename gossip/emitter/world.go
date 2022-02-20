@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/MugamboBC/go-mugambo/mugambo"
+	"github.com/topcoder1208/fantom-fork/mugambo"
 	"github.com/MugamboBC/mugambo-base/hash"
 	"github.com/MugamboBC/mugambo-base/inter/idx"
 	"github.com/MugamboBC/mugambo-base/inter/pos"
@@ -13,10 +13,10 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	notify "github.com/ethereum/go-ethereum/event"
 
-	"github.com/MugamboBC/go-mugambo/evmcore"
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/valkeystore"
-	"github.com/MugamboBC/go-mugambo/vecmt"
+	"github.com/topcoder1208/fantom-fork/evmcore"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/valkeystore"
+	"github.com/topcoder1208/fantom-fork/vecmt"
 )
 
 var (

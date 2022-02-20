@@ -11,10 +11,10 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/params"
 
-	"github.com/MugamboBC/go-mugambo/eventcheck/epochcheck"
-	"github.com/MugamboBC/go-mugambo/eventcheck/gaspowercheck"
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/utils"
+	"github.com/topcoder1208/fantom-fork/eventcheck/epochcheck"
+	"github.com/topcoder1208/fantom-fork/eventcheck/gaspowercheck"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/utils"
 )
 
 const (

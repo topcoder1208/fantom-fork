@@ -7,8 +7,8 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	notify "github.com/ethereum/go-ethereum/event"
 
-	"github.com/MugamboBC/go-mugambo/evmcore"
-	"github.com/MugamboBC/go-mugambo/inter"
+	"github.com/topcoder1208/fantom-fork/evmcore"
+	"github.com/topcoder1208/fantom-fork/inter"
 )
 
 // Constants to match up protocol versions and messages

@@ -17,13 +17,13 @@ import (
 	"github.com/ethereum/go-ethereum/trie"
 	lru "github.com/hashicorp/golang-lru"
 
-	"github.com/MugamboBC/go-mugambo/evmcore"
-	"github.com/MugamboBC/go-mugambo/gossip/emitter/originatedtxs"
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/logger"
-	"github.com/MugamboBC/go-mugambo/tracing"
-	"github.com/MugamboBC/go-mugambo/utils/piecefunc"
-	"github.com/MugamboBC/go-mugambo/utils/rate"
+	"github.com/topcoder1208/fantom-fork/evmcore"
+	"github.com/topcoder1208/fantom-fork/gossip/emitter/originatedtxs"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/logger"
+	"github.com/topcoder1208/fantom-fork/tracing"
+	"github.com/topcoder1208/fantom-fork/utils/piecefunc"
+	"github.com/topcoder1208/fantom-fork/utils/rate"
 )
 
 const (

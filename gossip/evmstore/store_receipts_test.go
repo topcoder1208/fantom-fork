@@ -8,7 +8,7 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/MugamboBC/go-mugambo/logger"
+	"github.com/topcoder1208/fantom-fork/logger"
 )
 
 func equalStorageReceipts(t *testing.T, expect, got types.Receipts) {

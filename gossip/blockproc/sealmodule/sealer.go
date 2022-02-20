@@ -7,7 +7,7 @@ import (
 	"github.com/MugamboBC/mugambo-base/inter/pos"
 	"github.com/MugamboBC/mugambo-base/mugambobft"
 
-	"github.com/MugamboBC/go-mugambo/gossip/blockproc"
+	"github.com/topcoder1208/fantom-fork/gossip/blockproc"
 )
 
 type mugamboEpochsSealerModule struct{}

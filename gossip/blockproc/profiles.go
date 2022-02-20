@@ -7,7 +7,7 @@ import (
 	"github.com/MugamboBC/mugambo-base/inter/pos"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/MugamboBC/go-mugambo/inter/drivertype"
+	"github.com/topcoder1208/fantom-fork/inter/drivertype"
 )
 
 type ValidatorProfiles map[idx.ValidatorID]drivertype.Validator

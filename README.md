@@ -95,27 +95,27 @@ go test ./...
 If everything goes well, it should output something along these lines:
 
 ```
-ok  	github.com/MugamboBC/go-mugambo/app	0.033s
-?   	github.com/MugamboBC/go-mugambo/cmd/cmdtest	[no test files]
-ok  	github.com/MugamboBC/go-mugambo/cmd/mugambo	13.890s
-?   	github.com/MugamboBC/go-mugambo/cmd/mugambo/metrics	[no test files]
-?   	github.com/MugamboBC/go-mugambo/cmd/mugambo/tracing	[no test files]
-?   	github.com/MugamboBC/go-mugambo/crypto	[no test files]
-?   	github.com/MugamboBC/go-mugambo/debug	[no test files]
-?   	github.com/MugamboBC/go-mugambo/ethapi	[no test files]
-?   	github.com/MugamboBC/go-mugambo/eventcheck	[no test files]
-?   	github.com/MugamboBC/go-mugambo/eventcheck/basiccheck	[no test files]
-?   	github.com/MugamboBC/go-mugambo/eventcheck/gaspowercheck	[no test files]
-?   	github.com/MugamboBC/go-mugambo/eventcheck/heavycheck	[no test files]
-?   	github.com/MugamboBC/go-mugambo/eventcheck/parentscheck	[no test files]
-ok  	github.com/MugamboBC/go-mugambo/evmcore	6.322s
-?   	github.com/MugamboBC/go-mugambo/gossip	[no test files]
-?   	github.com/MugamboBC/go-mugambo/gossip/emitter	[no test files]
-ok  	github.com/MugamboBC/go-mugambo/gossip/filters	1.250s
-?   	github.com/MugamboBC/go-mugambo/gossip/gasprice	[no test files]
-?   	github.com/MugamboBC/go-mugambo/gossip/occuredtxs	[no test files]
-?   	github.com/MugamboBC/go-mugambo/gossip/piecefunc	[no test files]
-ok  	github.com/MugamboBC/go-mugambo/integration	21.640s
+ok  	github.com/topcoder1208/fantom-fork/app	0.033s
+?   	github.com/topcoder1208/fantom-fork/cmd/cmdtest	[no test files]
+ok  	github.com/topcoder1208/fantom-fork/cmd/mugambo	13.890s
+?   	github.com/topcoder1208/fantom-fork/cmd/mugambo/metrics	[no test files]
+?   	github.com/topcoder1208/fantom-fork/cmd/mugambo/tracing	[no test files]
+?   	github.com/topcoder1208/fantom-fork/crypto	[no test files]
+?   	github.com/topcoder1208/fantom-fork/debug	[no test files]
+?   	github.com/topcoder1208/fantom-fork/ethapi	[no test files]
+?   	github.com/topcoder1208/fantom-fork/eventcheck	[no test files]
+?   	github.com/topcoder1208/fantom-fork/eventcheck/basiccheck	[no test files]
+?   	github.com/topcoder1208/fantom-fork/eventcheck/gaspowercheck	[no test files]
+?   	github.com/topcoder1208/fantom-fork/eventcheck/heavycheck	[no test files]
+?   	github.com/topcoder1208/fantom-fork/eventcheck/parentscheck	[no test files]
+ok  	github.com/topcoder1208/fantom-fork/evmcore	6.322s
+?   	github.com/topcoder1208/fantom-fork/gossip	[no test files]
+?   	github.com/topcoder1208/fantom-fork/gossip/emitter	[no test files]
+ok  	github.com/topcoder1208/fantom-fork/gossip/filters	1.250s
+?   	github.com/topcoder1208/fantom-fork/gossip/gasprice	[no test files]
+?   	github.com/topcoder1208/fantom-fork/gossip/occuredtxs	[no test files]
+?   	github.com/topcoder1208/fantom-fork/gossip/piecefunc	[no test files]
+ok  	github.com/topcoder1208/fantom-fork/integration	21.640s
 ```
 
 Also it is tested with [fuzzing](./FUZZING.md).

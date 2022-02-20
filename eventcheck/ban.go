@@ -3,7 +3,7 @@ package eventcheck
 import (
 	base "github.com/MugamboBC/mugambo-base/eventcheck"
 
-	"github.com/MugamboBC/go-mugambo/eventcheck/epochcheck"
+	"github.com/topcoder1208/fantom-fork/eventcheck/epochcheck"
 )
 
 var (

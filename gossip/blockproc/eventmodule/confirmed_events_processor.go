@@ -1,8 +1,8 @@
 package eventmodule
 
 import (
-	"github.com/MugamboBC/go-mugambo/gossip/blockproc"
-	"github.com/MugamboBC/go-mugambo/inter"
+	"github.com/topcoder1208/fantom-fork/gossip/blockproc"
+	"github.com/topcoder1208/fantom-fork/inter"
 )
 
 type ValidatorEventsModule struct{}

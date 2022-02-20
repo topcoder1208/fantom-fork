@@ -7,9 +7,9 @@ import (
 	"github.com/MugamboBC/mugambo-base/inter/idx"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesis"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesis/gpos"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesis"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesis/gpos"
 )
 
 type Genesis struct {

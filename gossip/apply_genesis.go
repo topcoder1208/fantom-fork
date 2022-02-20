@@ -10,14 +10,14 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/MugamboBC/go-mugambo/evmcore"
-	"github.com/MugamboBC/go-mugambo/gossip/blockproc"
-	"github.com/MugamboBC/go-mugambo/gossip/evmstore"
-	"github.com/MugamboBC/go-mugambo/gossip/sfcapi"
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/inter/drivertype"
-	"github.com/MugamboBC/go-mugambo/mugambo"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesis"
+	"github.com/topcoder1208/fantom-fork/evmcore"
+	"github.com/topcoder1208/fantom-fork/gossip/blockproc"
+	"github.com/topcoder1208/fantom-fork/gossip/evmstore"
+	"github.com/topcoder1208/fantom-fork/gossip/sfcapi"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/inter/drivertype"
+	"github.com/topcoder1208/fantom-fork/mugambo"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesis"
 )
 
 // ApplyGenesis writes initial state.

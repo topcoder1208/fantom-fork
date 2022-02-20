@@ -5,8 +5,8 @@ import (
 	"github.com/MugamboBC/mugambo-base/inter/pos"
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/MugamboBC/go-mugambo/gossip/blockproc"
-	"github.com/MugamboBC/go-mugambo/mugambo"
+	"github.com/topcoder1208/fantom-fork/gossip/blockproc"
+	"github.com/topcoder1208/fantom-fork/mugambo"
 )
 
 const sKey = "s"

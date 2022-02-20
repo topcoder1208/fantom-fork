@@ -12,7 +12,7 @@ import (
 	"github.com/MugamboBC/mugambo-base/utils/cachescale"
 	"github.com/syndtr/goleveldb/leveldb/opt"
 
-	"github.com/MugamboBC/go-mugambo/gossip"
+	"github.com/topcoder1208/fantom-fork/gossip"
 )
 
 func DBProducer(chaindataDir string, scale cachescale.Func) kvdb.IterableDBProducer {

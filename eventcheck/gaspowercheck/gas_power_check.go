@@ -9,7 +9,7 @@ import (
 	"github.com/MugamboBC/mugambo-base/inter/idx"
 	"github.com/MugamboBC/mugambo-base/inter/pos"
 
-	"github.com/MugamboBC/go-mugambo/inter"
+	"github.com/topcoder1208/fantom-fork/inter"
 )
 
 var (

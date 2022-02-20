@@ -32,7 +32,7 @@ import (
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/rpc"
 
-	"github.com/MugamboBC/go-mugambo/evmcore"
+	"github.com/topcoder1208/fantom-fork/evmcore"
 )
 
 // Type determines the kind of filter and is used to put the filter in to

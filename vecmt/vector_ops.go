@@ -6,7 +6,7 @@ import (
 	"github.com/MugamboBC/mugambo-base/vecengine"
 	"github.com/MugamboBC/mugambo-base/vecfc"
 
-	"github.com/MugamboBC/go-mugambo/inter"
+	"github.com/topcoder1208/fantom-fork/inter"
 )
 
 type CreationTimer interface {

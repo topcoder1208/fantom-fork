@@ -10,12 +10,12 @@ import (
 	"github.com/MugamboBC/mugambo-base/inter/dag"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/MugamboBC/go-mugambo/eventcheck"
-	"github.com/MugamboBC/go-mugambo/eventcheck/epochcheck"
-	"github.com/MugamboBC/go-mugambo/gossip/blockproc"
-	"github.com/MugamboBC/go-mugambo/gossip/emitter"
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/utils/concurrent"
+	"github.com/topcoder1208/fantom-fork/eventcheck"
+	"github.com/topcoder1208/fantom-fork/eventcheck/epochcheck"
+	"github.com/topcoder1208/fantom-fork/gossip/blockproc"
+	"github.com/topcoder1208/fantom-fork/gossip/emitter"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/utils/concurrent"
 )
 
 var (

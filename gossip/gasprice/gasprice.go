@@ -22,10 +22,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/MugamboBC/go-mugambo/mugambo"
+	"github.com/topcoder1208/fantom-fork/mugambo"
 	"github.com/MugamboBC/mugambo-base/inter/idx"
 
-	"github.com/MugamboBC/go-mugambo/utils/piecefunc"
+	"github.com/topcoder1208/fantom-fork/utils/piecefunc"
 
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/params"

@@ -5,7 +5,7 @@ import (
 
 	"github.com/MugamboBC/mugambo-base/inter/idx"
 
-	"github.com/MugamboBC/go-mugambo/inter/validatorpk"
+	"github.com/topcoder1208/fantom-fork/inter/validatorpk"
 )
 
 var (

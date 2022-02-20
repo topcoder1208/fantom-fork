@@ -14,13 +14,13 @@ import (
 	"github.com/MugamboBC/mugambo-base/utils/cachescale"
 	"github.com/syndtr/goleveldb/leveldb/opt"
 
-	"github.com/MugamboBC/go-mugambo/eventcheck/heavycheck"
-	"github.com/MugamboBC/go-mugambo/evmcore"
-	"github.com/MugamboBC/go-mugambo/gossip/blockproc/verwatcher"
-	"github.com/MugamboBC/go-mugambo/gossip/emitter"
-	"github.com/MugamboBC/go-mugambo/gossip/evmstore"
-	"github.com/MugamboBC/go-mugambo/gossip/filters"
-	"github.com/MugamboBC/go-mugambo/gossip/gasprice"
+	"github.com/topcoder1208/fantom-fork/eventcheck/heavycheck"
+	"github.com/topcoder1208/fantom-fork/evmcore"
+	"github.com/topcoder1208/fantom-fork/gossip/blockproc/verwatcher"
+	"github.com/topcoder1208/fantom-fork/gossip/emitter"
+	"github.com/topcoder1208/fantom-fork/gossip/evmstore"
+	"github.com/topcoder1208/fantom-fork/gossip/filters"
+	"github.com/topcoder1208/fantom-fork/gossip/gasprice"
 )
 
 const nominalSize uint = 1

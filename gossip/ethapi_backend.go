@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/MugamboBC/go-mugambo/mugambo"
+	"github.com/topcoder1208/fantom-fork/mugambo"
 	"github.com/MugamboBC/mugambo-base/hash"
 	"github.com/MugamboBC/mugambo-base/inter/idx"
 	"github.com/MugamboBC/mugambo-base/inter/pos"
@@ -23,14 +23,14 @@ import (
 	"github.com/ethereum/go-ethereum/rpc"
 	"github.com/pkg/errors"
 
-	"github.com/MugamboBC/go-mugambo/ethapi"
-	"github.com/MugamboBC/go-mugambo/evmcore"
-	"github.com/MugamboBC/go-mugambo/gossip/blockproc"
-	"github.com/MugamboBC/go-mugambo/gossip/sfcapi"
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/inter/drivertype"
-	"github.com/MugamboBC/go-mugambo/topicsdb"
-	"github.com/MugamboBC/go-mugambo/tracing"
+	"github.com/topcoder1208/fantom-fork/ethapi"
+	"github.com/topcoder1208/fantom-fork/evmcore"
+	"github.com/topcoder1208/fantom-fork/gossip/blockproc"
+	"github.com/topcoder1208/fantom-fork/gossip/sfcapi"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/inter/drivertype"
+	"github.com/topcoder1208/fantom-fork/topicsdb"
+	"github.com/topcoder1208/fantom-fork/tracing"
 )
 
 // EthAPIBackend implements ethapi.Backend.

@@ -13,7 +13,7 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 
-	"github.com/MugamboBC/go-mugambo/inter/validatorpk"
+	"github.com/topcoder1208/fantom-fork/inter/validatorpk"
 )
 
 var (

@@ -1,10 +1,10 @@
 package gpos
 
 import (
-	"github.com/MugamboBC/go-mugambo/inter"
+	"github.com/topcoder1208/fantom-fork/inter"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/MugamboBC/go-mugambo/inter/validatorpk"
+	"github.com/topcoder1208/fantom-fork/inter/validatorpk"
 	"github.com/MugamboBC/mugambo-base/inter/idx"
 )
 

@@ -4,9 +4,9 @@ import (
 	"github.com/MugamboBC/mugambo-base/hash"
 	"github.com/MugamboBC/mugambo-base/inter/idx"
 
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/mugambo"
-	"github.com/MugamboBC/go-mugambo/utils/concurrent"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/mugambo"
+	"github.com/topcoder1208/fantom-fork/utils/concurrent"
 )
 
 type GPOBackend struct {

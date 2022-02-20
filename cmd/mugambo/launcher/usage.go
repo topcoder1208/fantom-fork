@@ -25,8 +25,8 @@ import (
 	"github.com/ethereum/go-ethereum/cmd/utils"
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/MugamboBC/go-mugambo/debug"
-	"github.com/MugamboBC/go-mugambo/flags"
+	"github.com/topcoder1208/fantom-fork/debug"
+	"github.com/topcoder1208/fantom-fork/flags"
 )
 
 // AppHelpFlagGroups is the application flags, grouped by functionality.

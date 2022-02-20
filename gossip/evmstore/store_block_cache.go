@@ -4,7 +4,7 @@ import (
 	"github.com/MugamboBC/mugambo-base/inter/idx"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/MugamboBC/go-mugambo/evmcore"
+	"github.com/topcoder1208/fantom-fork/evmcore"
 )
 
 func (s *Store) GetCachedEvmBlock(n idx.Block) *evmcore.EvmBlock {

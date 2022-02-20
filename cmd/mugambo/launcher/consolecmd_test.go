@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/MugamboBC/go-mugambo/integration/makegenesis"
+	"github.com/topcoder1208/fantom-fork/integration/makegenesis"
 
 	"github.com/ethereum/go-ethereum/params"
 )

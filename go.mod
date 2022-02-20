@@ -1,4 +1,4 @@
-module github.com/MugamboBC/go-mugambo
+module github.com/topcoder1208/fantom-fork
 
 go 1.14
 

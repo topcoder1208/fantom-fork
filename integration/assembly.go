@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/MugamboBC/go-mugambo/mugambo"
+	"github.com/topcoder1208/fantom-fork/mugambo"
 	"github.com/MugamboBC/mugambo-base/abft"
 	"github.com/MugamboBC/mugambo-base/hash"
 	"github.com/MugamboBC/mugambo-base/inter/idx"
@@ -17,10 +17,10 @@ import (
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/MugamboBC/go-mugambo/gossip"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesisstore"
-	"github.com/MugamboBC/go-mugambo/utils/adapters/vecmt2dagidx"
-	"github.com/MugamboBC/go-mugambo/vecmt"
+	"github.com/topcoder1208/fantom-fork/gossip"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesisstore"
+	"github.com/topcoder1208/fantom-fork/utils/adapters/vecmt2dagidx"
+	"github.com/topcoder1208/fantom-fork/vecmt"
 )
 
 // GenesisMismatchError is raised when trying to overwrite an existing

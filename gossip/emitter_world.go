@@ -8,11 +8,11 @@ import (
 	"github.com/MugamboBC/mugambo-base/inter/idx"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/MugamboBC/go-mugambo/evmcore"
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/utils/wgmutex"
-	"github.com/MugamboBC/go-mugambo/valkeystore"
-	"github.com/MugamboBC/go-mugambo/vecmt"
+	"github.com/topcoder1208/fantom-fork/evmcore"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/utils/wgmutex"
+	"github.com/topcoder1208/fantom-fork/valkeystore"
+	"github.com/topcoder1208/fantom-fork/vecmt"
 )
 
 // emitterWorld implements emitter.World interface

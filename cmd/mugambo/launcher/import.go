@@ -24,12 +24,12 @@ import (
 	"github.com/status-im/keycard-go/hexutils"
 	"gopkg.in/urfave/cli.v1"
 
-	"github.com/MugamboBC/go-mugambo/gossip"
-	"github.com/MugamboBC/go-mugambo/gossip/emitter"
-	"github.com/MugamboBC/go-mugambo/integration"
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/utils/iodb"
-	"github.com/MugamboBC/go-mugambo/utils/ioread"
+	"github.com/topcoder1208/fantom-fork/gossip"
+	"github.com/topcoder1208/fantom-fork/gossip/emitter"
+	"github.com/topcoder1208/fantom-fork/integration"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/utils/iodb"
+	"github.com/topcoder1208/fantom-fork/utils/ioread"
 )
 
 type restrictedEvmBatch struct {

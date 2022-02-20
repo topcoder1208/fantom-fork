@@ -1,7 +1,7 @@
 package rlpstore
 
 import (
-	"github.com/MugamboBC/go-mugambo/logger"
+	"github.com/topcoder1208/fantom-fork/logger"
 	"github.com/MugamboBC/mugambo-base/kvdb"
 	"github.com/ethereum/go-ethereum/rlp"
 )

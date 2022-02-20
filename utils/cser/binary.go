@@ -1,8 +1,8 @@
 package cser
 
 import (
-	"github.com/MugamboBC/go-mugambo/utils/bits"
-	"github.com/MugamboBC/go-mugambo/utils/fast"
+	"github.com/topcoder1208/fantom-fork/utils/bits"
+	"github.com/topcoder1208/fantom-fork/utils/fast"
 )
 
 func MarshalBinaryAdapter(marshalCser func(*Writer) error) ([]byte, error) {

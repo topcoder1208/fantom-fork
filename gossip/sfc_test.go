@@ -35,17 +35,17 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/MugamboBC/go-mugambo/gossip/contract/driver100"
-	"github.com/MugamboBC/go-mugambo/gossip/contract/driverauth100"
-	"github.com/MugamboBC/go-mugambo/gossip/contract/netinit100"
-	"github.com/MugamboBC/go-mugambo/gossip/contract/sfc100"
-	"github.com/MugamboBC/go-mugambo/logger"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesis/driver"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesis/driverauth"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesis/evmwriter"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesis/netinit"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesis/sfc"
-	"github.com/MugamboBC/go-mugambo/utils"
+	"github.com/topcoder1208/fantom-fork/gossip/contract/driver100"
+	"github.com/topcoder1208/fantom-fork/gossip/contract/driverauth100"
+	"github.com/topcoder1208/fantom-fork/gossip/contract/netinit100"
+	"github.com/topcoder1208/fantom-fork/gossip/contract/sfc100"
+	"github.com/topcoder1208/fantom-fork/logger"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesis/driver"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesis/driverauth"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesis/evmwriter"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesis/netinit"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesis/sfc"
+	"github.com/topcoder1208/fantom-fork/utils"
 )
 
 func TestSFC(t *testing.T) {

@@ -1,8 +1,8 @@
 package valkeystore
 
 import (
-	"github.com/MugamboBC/go-mugambo/inter/validatorpk"
-	"github.com/MugamboBC/go-mugambo/valkeystore/encryption"
+	"github.com/topcoder1208/fantom-fork/inter/validatorpk"
+	"github.com/topcoder1208/fantom-fork/valkeystore/encryption"
 )
 
 type RawKeystoreI interface {

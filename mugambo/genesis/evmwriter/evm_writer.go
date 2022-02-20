@@ -10,7 +10,7 @@ import (
 	"github.com/ethereum/go-ethereum/core/vm"
 	"github.com/ethereum/go-ethereum/params"
 
-	"github.com/MugamboBC/go-mugambo/mugambo/genesis/driver"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesis/driver"
 )
 
 var (

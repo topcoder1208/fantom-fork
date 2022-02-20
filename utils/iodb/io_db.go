@@ -6,7 +6,7 @@ import (
 	"github.com/MugamboBC/mugambo-base/common/bigendian"
 	"github.com/MugamboBC/mugambo-base/kvdb"
 
-	"github.com/MugamboBC/go-mugambo/utils/ioread"
+	"github.com/topcoder1208/fantom-fork/utils/ioread"
 )
 
 func Write(writer io.Writer, db kvdb.Iteratee) error {

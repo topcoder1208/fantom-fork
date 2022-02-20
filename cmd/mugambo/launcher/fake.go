@@ -9,7 +9,7 @@ import (
 	"github.com/MugamboBC/mugambo-base/inter/idx"
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/MugamboBC/go-mugambo/integration/makegenesis"
+	"github.com/topcoder1208/fantom-fork/integration/makegenesis"
 )
 
 // FakeNetFlag enables special testnet, where validators are automatically created

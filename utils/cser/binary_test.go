@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/MugamboBC/go-mugambo/utils/fast"
+	"github.com/topcoder1208/fantom-fork/utils/fast"
 )
 
 func TestEmpty(t *testing.T) {

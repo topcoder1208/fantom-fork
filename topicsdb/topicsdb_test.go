@@ -14,7 +14,7 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/MugamboBC/go-mugambo/logger"
+	"github.com/topcoder1208/fantom-fork/logger"
 )
 
 // FindInBlocksAsync returns all log records of block range by pattern. 1st pattern element is an address.

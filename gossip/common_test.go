@@ -22,13 +22,13 @@ import (
 	"github.com/ethereum/go-ethereum/core/vm"
 	"github.com/ethereum/go-ethereum/crypto"
 
-	"github.com/MugamboBC/go-mugambo/evmcore"
-	"github.com/MugamboBC/go-mugambo/integration/makegenesis"
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/mugambo"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesis/gpos"
-	"github.com/MugamboBC/go-mugambo/utils"
-	"github.com/MugamboBC/go-mugambo/utils/gsignercache"
+	"github.com/topcoder1208/fantom-fork/evmcore"
+	"github.com/topcoder1208/fantom-fork/integration/makegenesis"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/mugambo"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesis/gpos"
+	"github.com/topcoder1208/fantom-fork/utils"
+	"github.com/topcoder1208/fantom-fork/utils/gsignercache"
 )
 
 const (

@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/MugamboBC/go-mugambo/mugambo"
+	"github.com/topcoder1208/fantom-fork/mugambo"
 	"github.com/MugamboBC/mugambo-base/abft"
 	"github.com/MugamboBC/mugambo-base/hash"
 	"github.com/MugamboBC/mugambo-base/utils/cachescale"
@@ -25,14 +25,14 @@ import (
 	"github.com/naoina/toml"
 	"gopkg.in/urfave/cli.v1"
 
-	"github.com/MugamboBC/go-mugambo/evmcore"
-	"github.com/MugamboBC/go-mugambo/gossip"
-	"github.com/MugamboBC/go-mugambo/gossip/gasprice"
-	"github.com/MugamboBC/go-mugambo/integration"
-	"github.com/MugamboBC/go-mugambo/integration/makegenesis"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesisstore"
-	futils "github.com/MugamboBC/go-mugambo/utils"
-	"github.com/MugamboBC/go-mugambo/vecmt"
+	"github.com/topcoder1208/fantom-fork/evmcore"
+	"github.com/topcoder1208/fantom-fork/gossip"
+	"github.com/topcoder1208/fantom-fork/gossip/gasprice"
+	"github.com/topcoder1208/fantom-fork/integration"
+	"github.com/topcoder1208/fantom-fork/integration/makegenesis"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesisstore"
+	futils "github.com/topcoder1208/fantom-fork/utils"
+	"github.com/topcoder1208/fantom-fork/vecmt"
 )
 
 var (

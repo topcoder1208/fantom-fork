@@ -3,7 +3,7 @@ language: go
 go:
   - 1.14.x
 
-go_import_path: github.com/MugamboBC/go-mugambo
+go_import_path: github.com/topcoder1208/fantom-fork
 
 cache:
   directories:

@@ -3,7 +3,7 @@ package verwatcher
 import (
 	"github.com/MugamboBC/mugambo-base/kvdb"
 
-	"github.com/MugamboBC/go-mugambo/logger"
+	"github.com/topcoder1208/fantom-fork/logger"
 )
 
 // Store is a node persistent storage working over physical key-value database.

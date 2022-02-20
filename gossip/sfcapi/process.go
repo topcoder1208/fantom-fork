@@ -7,9 +7,9 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/mugambo/genesis/sfc"
-	"github.com/MugamboBC/go-mugambo/topicsdb"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/mugambo/genesis/sfc"
+	"github.com/topcoder1208/fantom-fork/topicsdb"
 )
 
 func ApplyGenesis(s *Store, index *topicsdb.Index) {

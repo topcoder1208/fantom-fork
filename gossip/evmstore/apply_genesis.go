@@ -1,12 +1,12 @@
 package evmstore
 
 import (
-	"github.com/MugamboBC/go-mugambo/mugambo"
+	"github.com/topcoder1208/fantom-fork/mugambo"
 	"github.com/MugamboBC/mugambo-base/hash"
 	"github.com/MugamboBC/mugambo-base/kvdb"
 	"github.com/syndtr/goleveldb/leveldb/opt"
 
-	"github.com/MugamboBC/go-mugambo/evmcore"
+	"github.com/topcoder1208/fantom-fork/evmcore"
 )
 
 func (s *Store) applyRawEvmItems(db kvdb.Iteratee) (err error) {

@@ -4,8 +4,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/MugamboBC/go-mugambo/utils/bits"
-	"github.com/MugamboBC/go-mugambo/utils/fast"
+	"github.com/topcoder1208/fantom-fork/utils/bits"
+	"github.com/topcoder1208/fantom-fork/utils/fast"
 )
 
 var (

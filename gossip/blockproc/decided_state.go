@@ -10,8 +10,8 @@ import (
 	"github.com/MugamboBC/mugambo-base/mugambobft"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/MugamboBC/go-mugambo/inter"
-	"github.com/MugamboBC/go-mugambo/mugambo"
+	"github.com/topcoder1208/fantom-fork/inter"
+	"github.com/topcoder1208/fantom-fork/mugambo"
 )
 
 type ValidatorBlockState struct {

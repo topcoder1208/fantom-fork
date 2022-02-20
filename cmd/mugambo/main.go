@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/MugamboBC/go-mugambo/cmd/mugambo/launcher"
+	"github.com/topcoder1208/fantom-fork/cmd/mugambo/launcher"
 )
 
 func main() {

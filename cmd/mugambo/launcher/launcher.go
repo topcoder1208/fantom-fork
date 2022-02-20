@@ -19,15 +19,15 @@ import (
 	"github.com/ethereum/go-ethereum/params"
 	"gopkg.in/urfave/cli.v1"
 
-	"github.com/MugamboBC/go-mugambo/cmd/mugambo/launcher/metrics"
-	"github.com/MugamboBC/go-mugambo/cmd/mugambo/launcher/tracing"
-	"github.com/MugamboBC/go-mugambo/debug"
-	"github.com/MugamboBC/go-mugambo/flags"
-	"github.com/MugamboBC/go-mugambo/gossip"
-	"github.com/MugamboBC/go-mugambo/integration"
-	"github.com/MugamboBC/go-mugambo/utils/errlock"
-	"github.com/MugamboBC/go-mugambo/valkeystore"
-	_ "github.com/MugamboBC/go-mugambo/version"
+	"github.com/topcoder1208/fantom-fork/cmd/mugambo/launcher/metrics"
+	"github.com/topcoder1208/fantom-fork/cmd/mugambo/launcher/tracing"
+	"github.com/topcoder1208/fantom-fork/debug"
+	"github.com/topcoder1208/fantom-fork/flags"
+	"github.com/topcoder1208/fantom-fork/gossip"
+	"github.com/topcoder1208/fantom-fork/integration"
+	"github.com/topcoder1208/fantom-fork/utils/errlock"
+	"github.com/topcoder1208/fantom-fork/valkeystore"
+	_ "github.com/topcoder1208/fantom-fork/version"
 )
 
 const (

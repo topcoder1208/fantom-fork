@@ -14,7 +14,7 @@ import (
 	"github.com/MugamboBC/mugambo-base/kvdb/skiperrors"
 	"github.com/MugamboBC/mugambo-base/kvdb/table"
 
-	"github.com/MugamboBC/go-mugambo/logger"
+	"github.com/topcoder1208/fantom-fork/logger"
 )
 
 var (
